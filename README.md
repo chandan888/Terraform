@@ -52,10 +52,10 @@ The module consists of two sub-modules:
 
 #### Resource Naming Parent Module (resource_naming_parent)
 
-| Name           | Description                                             | Type          | Default | Required |
-|----------------|---------------------------------------------------------|---------------|---------|----------|
-| base_names     | A list of base names for the resources                  | list(string)  | n/a     | yes      |
-| resource_types | A list of resource types corresponding to the base names| list(string)  | n/a     | yes      |
+| Name           | Description                                             | Type          |
+|----------------|---------------------------------------------------------|---------------|
+| base_names     | A list of base names for the resources                  | list(string)  | 
+| resource_types | A list of resource types corresponding to the base names| list(string)  |
 
 # Outputs
 
