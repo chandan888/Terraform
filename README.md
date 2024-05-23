@@ -71,7 +71,7 @@ The module consists of two sub-modules:
 |---------------|------------------------------------------------------|
 | resources_type     | base names to their corresponding resource names generated from conditiond met |
 
-##Possible different outputs based on distinct inputs:
+##Possible different outputs based on other inputs:
 
 ### Output produced when both inputs are valid
 
