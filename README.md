@@ -59,7 +59,7 @@ The module consists of two sub-modules:
 
 # Outputs
 
-# Resource Naming Module (resource_naming)
+#### Resource Naming Module (resource_naming)
 
 | Name          | Description                                 |
 |---------------|---------------------------------------------|
