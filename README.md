@@ -71,5 +71,9 @@ The module consists of two sub-modules:
 |---------------|------------------------------------------------------|
 | resources_type     | base names to their corresponding resource names generated from conditiond met |
 
+<img width="746" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/b42cf1d0-00e5-4d64-a394-f1d1325f367e">
+
+
+
 Please visite this site to get full code (" https://github.com/chandan888/Terraform ")
 
