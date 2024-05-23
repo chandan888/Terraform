@@ -83,6 +83,8 @@ The module consists of two sub-modules:
 
 ### Output for storage_account condition
 
+<img width="750" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/636e6eb2-7b05-4da2-a910-2f87ae0cc4af">
+
 ### Output produced when both inputs are valid
 
 <img width="746" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/b42cf1d0-00e5-4d64-a394-f1d1325f367e">
