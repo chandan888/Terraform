@@ -71,5 +71,5 @@ The module consists of two sub-modules:
 |---------------|------------------------------------------------------|
 | resources     | A map of base names to their corresponding resource names |
 
-Please visite this site to get full code ("
+Please visite this site to get full code (" https://github.com/chandan888/Terraform ")
 
