@@ -82,6 +82,7 @@ The module consists of two sub-modules:
 
 
 ### Output produced when both inputs are invalid
+<img width="741" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/977df02c-19e2-4ccc-a294-fad99c95fc07">
 
 
 Please visite this site to get full code (" https://github.com/chandan888/Terraform ")
