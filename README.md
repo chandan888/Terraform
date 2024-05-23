@@ -77,7 +77,7 @@ The module consists of two sub-modules:
 
 ### Output produced when base_name input is invalid
 
-
+<img width="757" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/ecbec276-84a6-4aaa-a4e3-b436947fab1c">
 
 ### Output produced when resource_type is invalid
 
