@@ -63,7 +63,7 @@ The module consists of two sub-modules:
 
 | Name          | Description                                 |
 |---------------|---------------------------------------------|
-| resource_name | Output generated based on condition   |
+| base_name | Output generated based on condition   |
 
 #### Resource Naming Parent Module (resource_naming_parent)
 
