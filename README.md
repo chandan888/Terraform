@@ -73,6 +73,12 @@ The module consists of two sub-modules:
 
 ##Possible different outputs based on other inputs:
 
+### Output for virtual_machine condition
+
+### Output for Key_vault condition
+
+### Output for storage_account condition
+
 ### Output produced when both inputs are valid
 
 <img width="746" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/b42cf1d0-00e5-4d64-a394-f1d1325f367e">
