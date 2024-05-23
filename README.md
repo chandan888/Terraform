@@ -22,8 +22,8 @@ The module consists of two sub-modules:
 
 # Prerequisites
 
-1. Terraform Installed
-    Ensure that Terraform is installed on your machine. You can download it from the official Terraform website or install it via a package manager.
+*1. Terraform Installed*
+   Ensure that Terraform is installed on your machine. You can download it from the official Terraform website or install it via a package manager.
 2. Git Installed
     Git is optional but recommended for version control and managing your Terraform configurations. You can download Git from the Git website or install it via a package manager.
 3. Access to a Cloud Provider
