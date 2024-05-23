@@ -45,10 +45,10 @@ The module consists of two sub-modules:
 
 #### Resource Naming Module (resource_naming)
 
-| Name          | Description                                         | Type   | Default | Required |
-|-------------- |-----------------------------------------------------|--------|---------|----------|
-| base_name     | The base name for the resource                      | string | n/a     | yes      |
-| resource_type | The type of the resource                            | string | n/a     | yes      |
+| Name          | Description                                         | Type   | 
+|-------------- |-----------------------------------------------------|--------|
+| base_name     | The base name for the resource                      | string | 
+| resource_type | The type of the resource                            | string |
 
 #### Resource Naming Parent Module (resource_naming_parent)
 
