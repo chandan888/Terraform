@@ -22,23 +22,23 @@ The module consists of two sub-modules:
 
 # Prerequisites
 
-*1. Terraform Installed*
-   Ensure that Terraform is installed on your machine. You can download it from the official Terraform website or install it via a package manager.
-2. Git Installed
+1. Terraform Installed :
+    Ensure that Terraform is installed on your machine. You can download it from the official Terraform website or install it via a package manager.
+2. Git Installed :
     Git is optional but recommended for version control and managing your Terraform configurations. You can download Git from the Git website or install it via a package manager.
-3. Access to a Cloud Provider
+3. Access to a Cloud Provider:
     You'll need access to a cloud provider such as AWS, Azure, or Google Cloud Platform where you plan to deploy your infrastructure.
-4. Configuration File
+4. Configuration File :
     Prepare a Terraform configuration file (usually named main.tf) where you'll define the infrastructure resources and include the modules.
-5. Inputs Defined
+5. Inputs Defined :
     Ensure that you have defined the necessary input variables for the modules in your Terraform configuration file. This includes base_name, resource_type, and resource_map depending on the module being used.
-6. Understanding of Terraform Modules
+6. Understanding of Terraform Modules :
    Familiarize yourself with Terraform modules and how to use them within your Terraform configurations. You should understand how to define module blocks, input variables, and outputs.
-7. Internet Access
+7. Internet Access :
     Ensure that your machine has internet access so that Terraform can download the necessary modules from their source repositories (e.g., GitHub) during execution.
-8. Permissions
+8. Permissions :
     Ensure that you have the necessary permissions to create and manage resources on your chosen cloud provider.
-9. Best Practices
+9. Best Practices :
     Familiarize yourself with Terraform best practices for managing infrastructure as code, including version control, code review processes, and environment management.
 
 # Inputs
