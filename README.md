@@ -1,6 +1,6 @@
 # Terraform Azure Resource Naming Module
 
-This Terraform module generates resource names based on predefined rules for Azure resources. It takes a base_name and resource_type as input and generates a resource_name according to the specified rules.
+This Terraform module generates resource names based on predefined rules . It takes a base_name and resource_type as input and will evaluate and generates a resource_name according to the specified rules.
 
 # Implementation Details
 
