@@ -75,6 +75,8 @@ The module consists of two sub-modules:
 
 ### Output for virtual_machine condition
 
+<img width="745" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/e9022bad-ff1e-43ed-858b-1924a7bd9cc6">
+
 ### Output for Key_vault condition
 
 ### Output for storage_account condition
