@@ -63,13 +63,13 @@ The module consists of two sub-modules:
 
 | Name          | Description                                 |
 |---------------|---------------------------------------------|
-| resource_name | The generated name for the Azure resource   |
+| resource_name | Output generated based on condition   |
 
 #### Resource Naming Parent Module (resource_naming_parent)
 
 | Name          | Description                                          |
 |---------------|------------------------------------------------------|
-| resources     | A map of base names to their corresponding resource names |
+| resources_type     | base names to their corresponding resource names generated from conditiond met |
 
 Please visite this site to get full code (" https://github.com/chandan888/Terraform ")
 
