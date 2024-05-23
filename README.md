@@ -79,6 +79,8 @@ The module consists of two sub-modules:
 
 ### Output for Key_vault condition
 
+<img width="724" alt="image" src="https://github.com/chandan888/Terraform/assets/55734595/48076713-6ad2-455b-9bc9-75bec8e83b6e">
+
 ### Output for storage_account condition
 
 ### Output produced when both inputs are valid
